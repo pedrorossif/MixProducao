@@ -1,0 +1,13 @@
+Grupo:
+Bernardo Mendes de Paiva Olímpio
+Pedro Rossi Medeiros Faria
+Pedro Henrique Hardeman Guedes
+
+Link do projeto no GitHub:
+https://github.com/pedrorossif/MixProducao
+
+Link para acesso do projeto no Azure:
+https://tp2-mix.azurewebsites.net/Mix
+
+Link para acesso à apresentação do trabalho:
+https://docs.google.com/presentation/d/1PLYLmWLyQLBC8FnN3rzow93I1OCX3-2R3m2A4iQiHDo/edit?usp=sharing
